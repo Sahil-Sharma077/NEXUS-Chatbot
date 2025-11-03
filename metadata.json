@@ -1,0 +1,8 @@
+{
+  "name": "NEXUS",
+  "description": "NEXUS: A multi-modal AI chat application powered by the Gemini API. Engage in real-time voice conversations with the Live API, get up-to-date answers with Search and Maps grounding, and generate text-to-speech audio for responses.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
